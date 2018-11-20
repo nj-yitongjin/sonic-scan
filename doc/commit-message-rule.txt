@@ -1,0 +1,20 @@
+##### Commit Message Rule #####
+### by WeilunFong on 2018-11-21
+
+### Basic format
+<type>: <description>
+
+### Detail
+Value of <type> must be following words:
+(1)add
+(2)chore
+(3)delete
+(4)modify
+(5)other
+
+And content of <description> requires record detail of changes about this commit.
+For example:
+  chore: first commit
+  add: add item of examsafety.nuist.edu.cn
+
+*** Attention! There must be a space behind ':'
