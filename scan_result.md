@@ -16,3 +16,4 @@ IP|域名|端口|描述|日期
 202.195.235.98|auto.nuist.edu.cn|22,80,443|(1)22:OpenSSH 7.8;<br/>(2)80:Apache httpd;443:南京信息工程大学自动化学院|2019/3/7
 202.195.235.98|isc.nuist.edu.cn|22,80,443|(1)22:OpenSSH 7.8;<br>(2):80,443: Apache httpd (域名未生效)|2019/3/7
 202.195.224.35|ids1.nuist.edu.cn|80,111,22,29999,20000,931,<br/>20202,3000,11768,54292,389,81,3100,37|(1)22:OpenSSH 4.3;<br/>(2)37:Open time (32bit);<br/>(3)80,81:Sun ONE Web Server 6.1;<br/>(4)111:open rpcbind 2;<br/>(5)389:ldap;<br/>(6)3000,3100,11768,20000,20202,54292:Internet Communications Engine;|2019/3/7
+10.255.255.13|zhuce.nuist.edu.cn|22,80,443.2049.3306|(1)22:OpenSSH 5.3;<br/>(2)80:Apache httpd 2.2.21;<br/>(3)443:closed https;<br/>(4)2049:nfs;<br/>(5)3306:closed mysql|2019/3/16
